@@ -1,1 +1,1 @@
-# disciplina_Modelagem_Inferencia_Estatistica_2023b
+# disc_Modelagem_Inferencia_Estatistica_2023b
